@@ -1,0 +1,14 @@
+E:\Codegym\c# start\bmi\bin\Debug\net8.0\bmi.exe
+E:\Codegym\c# start\bmi\bin\Debug\net8.0\bmi.deps.json
+E:\Codegym\c# start\bmi\bin\Debug\net8.0\bmi.runtimeconfig.json
+E:\Codegym\c# start\bmi\bin\Debug\net8.0\bmi.dll
+E:\Codegym\c# start\bmi\bin\Debug\net8.0\bmi.pdb
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.AssemblyInfoInputs.cache
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.AssemblyInfo.cs
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.dll
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\refint\bmi.dll
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.pdb
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\bmi.genruntimeconfig.cache
+E:\Codegym\c# start\bmi\obj\Debug\net8.0\ref\bmi.dll
